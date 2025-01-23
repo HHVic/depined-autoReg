@@ -1,0 +1,7 @@
+.idea/
+
+venv/
+full.csv
+proxy.txt
+register.csv
+tokens.txt

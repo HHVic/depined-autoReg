@@ -1,0 +1,9 @@
+aiohttp
+fake-useragent
+colorama
+pyfiglet
+tabulate
+halo
+pytz
+termcolor~=2.5.0
+aiofiles
